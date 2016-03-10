@@ -6,4 +6,4 @@
 
 First, you'll need to install the required Synapse KiCAD libraries from:
 
-    https://github.com/synapse-wireless/kicad-libs
+> https://github.com/synapse-wireless/kicad-libs
